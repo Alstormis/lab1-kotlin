@@ -3,6 +3,7 @@ import kotlin.math.sqrt
 
 fun main()
 {
+    // Задание 12. Рассчитать площадь треугольника по заданным с клавиатуры координатам трех его вешрин
     println("Координаты первой точки")
     var x1:Int = readLine()!!.toInt()
     var y1:Int = readLine()!!.toInt()
